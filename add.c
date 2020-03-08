@@ -2,3 +2,7 @@
 #include<conio.h>
 void main()
 {
+
+
+
+printf("sum=%d",a+b);
