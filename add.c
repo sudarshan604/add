@@ -5,4 +5,4 @@ void main()
 
 
 
-printf("sum=%d",a+b);
+printf("sum of %d and %d=%d",a,ba+b);
